@@ -1,0 +1,37 @@
+h1,
+h2,
+h3,
+p,
+body {
+  font-family: "Verdana", "Geneva", sans-serif;
+  text-align: center;
+  color: white;
+  background-color: black
+}
+
+}
+.header h1 {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+#download p {
+  color: "Aquamarine";
+  font-size: 16px;
+}
+
+.personal h2,
+.footer h2{
+  font-weight: 300;
+  font-size: 42px;
+}
+.description {
+  font-size: 21px;
+  color: Gray;
+}
+
+#copyright p {
+  text-align: right;
+  color: Gray;
+  font-size: 21px;
+}
